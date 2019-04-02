@@ -10,7 +10,8 @@
     "material-ui-icons": "^1.0.0-beta.36",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^1.1.4"
+    "react-scripts": "^1.1.",
+    "lodash": ">=4.17.11"
   },
   "homepage": "https://www.roop-pal.com",
   "scripts": {
