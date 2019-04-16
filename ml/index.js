@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'The name of the Lord is a strong tower; the righteous run into it and are safe.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Brevity is the soul of wit.',
   'example4':
-       'I never get too attached to one deal or one approach. For starters, I keep a lot of balls in the air, because most deals fall out, no matter how promising they seem at first.'
+       'Better to sleep with a sober cannibal than a drunk Christian.'
 };
 
 function status(statusText) {
