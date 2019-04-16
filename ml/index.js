@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Oh my offence is ranke, it smels to heauen, It hath the primall eldest curse vpont, A Brothers murther.',
   'example4':
-       'It's unfortnate Stiggs done over again there goes another counterpane -- God pity his poor mother!-- it will be the ruin of my house.'
+       'Its unfortnate Stiggs done over again there goes another counterpane -- God pity his poor mother!-- it will be the ruin of my house.'
 };
 
 function status(statusText) {
