@@ -12,9 +12,9 @@ const examples = {
   'example2':
       '12:46 In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.',
   'example3':
-      'Oh my offence is ranke, it smels to heauen, It hath the primall eldest curse vpon't, A Brothers murther.',
+      'Oh my offence is ranke, it smels to heauen, It hath the primall eldest curse vpont, A Brothers murther.',
   'example4':
-       'It's unfort'nate Stiggs done over again there goes another counterpane -- God pity his poor mother!-- it will be the ruin of my house.'
+       'It's unfortnate Stiggs done over again there goes another counterpane -- God pity his poor mother!-- it will be the ruin of my house.'
 };
 
 function status(statusText) {
