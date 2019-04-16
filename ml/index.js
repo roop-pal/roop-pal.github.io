@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'The name of the Lord is a strong tower; the righteous run into it and are safe.',
+      '12:46 In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.',
   'example3':
-      'Brevity is the soul of wit.',
+      'Oh my offence is ranke, it smels to heauen, It hath the primall eldest curse vpon't, A Brothers murther.',
   'example4':
-       'Better to sleep with a sober cannibal than a drunk Christian.'
+       'It's unfort'nate Stiggs done over again there goes another counterpane -- God pity his poor mother!-- it will be the ruin of my house.'
 };
 
 function status(statusText) {
